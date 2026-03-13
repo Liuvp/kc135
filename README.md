@@ -1,4 +1,4 @@
-﻿# kc135.xyz
+# kc135.xyz
 
 Static KC-135 microsite focused on two search intents: the main aircraft guide and the Iraq incident news page.
 
