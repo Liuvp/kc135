@@ -1,0 +1,10 @@
+﻿{
+  "name": "kc135-static-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static KC-135 microsite preview server",
+  "scripts": {
+    "dev": "node preview-server.js",
+    "start": "node preview-server.js"
+  }
+}
